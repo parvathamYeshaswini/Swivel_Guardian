@@ -94,6 +94,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000). API keys are optional; the complete demo works without them.
 
+(download all the necessary files before you run the localhost)
+
 For production-style validation:
 
 ```bash
